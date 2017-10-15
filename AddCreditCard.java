@@ -1,5 +1,3 @@
-package loginscreen;
-
 import javax.swing.*;
 import java.util.ArrayList;
 import java.awt.event.ActionEvent;
